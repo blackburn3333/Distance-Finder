@@ -2,7 +2,7 @@
 #Title: Distance Finder
 #Date : 31, Jan, 2019
 
-from getdata import Getdata
+from Getdata import Getdata
 from distance import Distance
 
 getdata = Getdata()
